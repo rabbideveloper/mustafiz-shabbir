@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-area {
+    background: #FF861E;
+    height: 250px;
+}
+
+.left-area {
+    background: #FE1800;
+    height: 250px;
+    width: 300px;
+    float: left;
+}
+
+.center-area {
+    height: 250px;
+    width: 500px;
+    background: #A956A6;
+    overflow: hidden;
+    float: left;
+}
+
+.right-area {
+    background: #0094EA;
+    height: 250px;
+    overflow: hidden;
+}
+
+.footer-area {
+    background: #11833D;
+    height: 250px;
+    overflow: hidden;
+}
